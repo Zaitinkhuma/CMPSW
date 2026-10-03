@@ -1,0 +1,4 @@
+Dataset,Samples,Features,Majority_Label,Minority_Label,Majority_N,Minority_N,Imbalance_Ratio
+Z-Alizadeh Sani,303,55,1,0,216,87,2.4827586206896552
+Heart Failure,299,11,0,1,203,96,2.1145833333333335
+Long Beach VA,200,10,1,0,149,51,2.9215686274509802
